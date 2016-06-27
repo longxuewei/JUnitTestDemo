@@ -1,1 +1,4 @@
-# JUnitTestDemo
+# __Android Studio 下进行单元测试__
+###1：__在被测试的类文件名上面右击，如下图：__
+![Alt text](/image/1.png "哈哈哈")
+###2: __然后选择穿件
